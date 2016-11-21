@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "0304CF251DDAEBB3006BDD8B"
-               BuildableName = "TableViewAutoHeight.app"
-               BlueprintName = "TableViewAutoHeight"
-               ReferencedContainer = "container:TableViewAutoHeight.xcodeproj">
+               BuildableName = "TableViewCollectionViewAutoHeight.app"
+               BlueprintName = "TableViewCollectionViewAutoHeight"
+               ReferencedContainer = "container:TableViewCollectionViewAutoHeight.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "0304CF391DDAEBB3006BDD8B"
-               BuildableName = "TableViewAutoHeightTests.xctest"
-               BlueprintName = "TableViewAutoHeightTests"
-               ReferencedContainer = "container:TableViewAutoHeight.xcodeproj">
+               BuildableName = "TableViewCollectionViewAutoHeightTests.xctest"
+               BlueprintName = "TableViewCollectionViewAutoHeightTests"
+               ReferencedContainer = "container:TableViewCollectionViewAutoHeight.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "0304CF441DDAEBB3006BDD8B"
-               BuildableName = "TableViewAutoHeightUITests.xctest"
-               BlueprintName = "TableViewAutoHeightUITests"
-               ReferencedContainer = "container:TableViewAutoHeight.xcodeproj">
+               BuildableName = "TableViewCollectionViewAutoHeightUITests.xctest"
+               BlueprintName = "TableViewCollectionViewAutoHeightUITests"
+               ReferencedContainer = "container:TableViewCollectionViewAutoHeight.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "0304CF251DDAEBB3006BDD8B"
-            BuildableName = "TableViewAutoHeight.app"
-            BlueprintName = "TableViewAutoHeight"
-            ReferencedContainer = "container:TableViewAutoHeight.xcodeproj">
+            BuildableName = "TableViewCollectionViewAutoHeight.app"
+            BlueprintName = "TableViewCollectionViewAutoHeight"
+            ReferencedContainer = "container:TableViewCollectionViewAutoHeight.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "0304CF251DDAEBB3006BDD8B"
-            BuildableName = "TableViewAutoHeight.app"
-            BlueprintName = "TableViewAutoHeight"
-            ReferencedContainer = "container:TableViewAutoHeight.xcodeproj">
+            BuildableName = "TableViewCollectionViewAutoHeight.app"
+            BlueprintName = "TableViewCollectionViewAutoHeight"
+            ReferencedContainer = "container:TableViewCollectionViewAutoHeight.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "0304CF251DDAEBB3006BDD8B"
-            BuildableName = "TableViewAutoHeight.app"
-            BlueprintName = "TableViewAutoHeight"
-            ReferencedContainer = "container:TableViewAutoHeight.xcodeproj">
+            BuildableName = "TableViewCollectionViewAutoHeight.app"
+            BlueprintName = "TableViewCollectionViewAutoHeight"
+            ReferencedContainer = "container:TableViewCollectionViewAutoHeight.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
